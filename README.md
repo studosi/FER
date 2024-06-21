@@ -151,7 +151,7 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
     
 *   [**Elektroenergetske mreže**](https://www.github.com/studosi-fer/ELEMRE) ([**FER** link](https://www.fer.unizg.hr/predmet/elemre_a))
     
-*   [**Elektromagnetska polja**](https://www.github.com/studosi-fer/EMP) ([**FER** link](https://www.fer.unizg.hr/predmet/elepolj))
+*   [**Elektromagnetska polja**](https://www.github.com/studosi-fer/ELEPOLJ) ([**FER** link](https://www.fer.unizg.hr/predmet/elepolj))
     
 *   [**Elektromehanika**](https://www.github.com/studosi-fer/ELEMEH) ([**FER** link](https://www.fer.unizg.hr/predmet/ele_h))
     
